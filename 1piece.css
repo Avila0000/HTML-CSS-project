@@ -1,0 +1,49 @@
+.body{
+    background-color: black;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+header a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-color: #da1414;
+    text-decoration-color: white;
+    border: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section img{
+    margin-left: 400px;
+    min-height: 650px;
+}
+h2{
+    background-color: #da1414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .carousel-item-active{
+    max-height: 200px;
+}
+.carousel-inner-img{
+    max-height: 100px;
+} */
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    margin-left: 250px;
+}

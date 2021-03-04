@@ -1,6 +1,12 @@
-.body{
-    background-color: black;
-}
+/* body{
+    background-color: ;
+    background-color: #a7970b;
+    background-image: url(./Jolly_Roger.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #ffffff;
+    } */
 .navbar{
     display: flex;
     justify-content: center;
@@ -28,12 +34,6 @@ h2{
     justify-content: center;
     align-items: center;
 }
-/* .carousel-item-active{
-    max-height: 200px;
-}
-.carousel-inner-img{
-    max-height: 100px;
-} */
 p{
     display: flex;
     justify-content: center;
